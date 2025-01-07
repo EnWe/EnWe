@@ -1,7 +1,7 @@
 ## Hi @all 👋
 
 
-Hello my name is Enrico and this is my Github profile! Programmin is just a hobby for me.
+Hello my name is Enrico and this is my Github profile! Programming is just a hobby for me.
 
 
 
