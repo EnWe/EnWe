@@ -15,12 +15,12 @@ Github Stats
 ![](https://github-readme-stats.vercel.app/api?username=enwe&show_icons=true&theme=synthwave&line_height=30&show=reviews,prs_merged)
 
 
-<!-- Github Trophies  
+Github Trophies  
 ---
 ![Trophy](https://github-profile-trophy.vercel.app/?username=enwe&rank=A,AA,AAA,S,SS,SSS,SECRET&no-frame=true&no-bg=true&margin-w=15&margin-h=15&column=7&theme=synthwave)  
 
 ---
--->
+
 
 <!--
 **EnWe/EnWe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
